@@ -1,5 +1,4 @@
 from zope.interface import Interface
-from zope.interface import implementer
 
 class IPrueba(Interface):
     def insertarElemento(elemento,posicion):
