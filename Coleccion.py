@@ -1,5 +1,4 @@
-from zope.interface import Interface
-from zope.interface import implementer
+from zope.interface import Implementer
 from Interface import IPrueba
 
 @Implementer(IPrueba)
